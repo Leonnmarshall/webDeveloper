@@ -1,0 +1,9 @@
+// cores
+alfabeto hexadecimal
+#_ _ _ _ _ _
+0 = ausencia
+F = máximo
+
+RGB = 255 níveis de cores
+
+rgb(255, 255, 255) exemplo para representar cores no css
